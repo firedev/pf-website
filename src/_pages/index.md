@@ -6,14 +6,17 @@ video: true
 ---
 
 {:.text-5xl .font-bold .tracking-tight .animate .ease .fadeIn .delay-500 .text-center .sm:text-8xl .mt-0 .mb-16 .z-1 .relative}
-# Wish someone told me how to use this life.
+# Forward thinking, present living.
 
 [//]: # (# Biohack and <mark class="bg-transparent font-extrabold text-stone-800 shadow-[inset_0_-0.5em_0_0_rgb&#40;224,242,254&#41;]">think</mark> <br>your way out)
 
-<div class="text-center">{%@ "the_book" %}</div>
+<div class="text-center text-2xl">
+Stop holding back and not living the life you should.<br> 
+Here is the forward thinking approarch.
 
-> It would not work if you don't know how to think.
+{%@ "the_book" %}</div> 
 
+> Now is a gift to you. That's why it's called present.
 
 # What if I told you...
 
