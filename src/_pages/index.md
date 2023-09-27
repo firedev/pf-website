@@ -10,11 +10,11 @@ video: true
 
 [//]: # (# Biohack and <mark class="bg-transparent font-extrabold text-stone-800 shadow-[inset_0_-0.5em_0_0_rgb&#40;224,242,254&#41;]">think</mark> <br>your way out)
 
-<div class="text-center text-2xl">
-Stop holding back and not living the life you should.<br> 
-Here is the forward thinking approarch.
+{:.text-center .text-2xl}
+You start anew every moment. There is only now. Think forward. 
 
-{%@ "the_book" %}</div> 
+{:.text-center .text-2xl}
+{%@ "the_book" %}
 
 > Now is a gift to you. That's why it's called present.
 
@@ -22,11 +22,13 @@ Here is the forward thinking approarch.
 
 There is an escape hatch from the Matrix. What if you could disconnect from society's imposed "norms"? Could you create your own rules? Could you live the life you are capable of?
 
-The Matrix, like in the movie? The reality often seem to follow a certain path. Yeah, if we could only choose... But, hey, maybe we could.
+There is a door inside that, once seen, can be opened. Transformative thinking can pick the lock.
 
-There is a door that, once seen, can be opened. Transformative mindset with a bit of help from biohacking could pick the lock.
+With the right attitude, some luck and a little help from biohacking you can break trough to living as intended. Able to reprogram yourself armed with the right mindset. Here is the method worked for me and the people around. 
 
-Here is how I reached the awakening and could reprogram myself. Here is what I learned along the way. Here is my gift to the `IT Crowd` — Smart, Skeptical, Opinionated. Here is what worked.
+It involves some mental gymnastic in form of questions to contemplate. You can go at your own pace, it's up to you. This is how you start pulling the thread, anyway. 
+
+I reached what goes by "englightment" in non-scientific circles and reprogrammed myself. This is how I got there and what I learned along the way. Here is my gift to the `IT Crowd` — Smart, Skeptical, Opinionated. Here is what worked.
 
 <div class="my-12">
   <a href="/book">
@@ -34,9 +36,9 @@ Here is how I reached the awakening and could reprogram myself. Here is what I l
       <div class="absolute shadow-sm shadow-sky-950/10 shadow-opacity-5 right-0 top-0 -mr-5 -mt-5 bg-sky-100  py-2 px-4 rounded-xl flex gap-3">
         <span>🚧</span> Soon...
       </div>
-      <h2 class="pt-2 pl-4 pb-2 mr-4 bg-white shadow-sm rounded-r">Optimize for Joy</h2>
-      <b>Metaprogramming<br> for the Soul</b>
-      <div class="text-sm p-4">The manual for life they forgot</div>
+      <h2 class="pt-2 pl-4 pb-2 mr-4 bg-white shadow-sm rounded-r">think → forward </h2>
+      <b>Soul Metaprogramming</b>
+      <div class="text-sm p-4">The manual they forgot</div>
     </div>
   </a>
 </div>
