@@ -1,6 +1,7 @@
 <header class="homepage-no-shadow transition-shadows py-5 px-4 sm:py-7 shadow-2xl shadow-stone-600/10 relative z1 xdark:bg-stone-900 xdark:bg-opacity-80 xdark:shadow-none">
   <div class="flex flex-col sm:flex-row w-full gap-4 items-center max-w-screen-2xl mx-auto">
-    <a href="/" class="flex items-center gap-4 mr-4 mb-2">
+
+    <a href="/" class="flex items-center gap-4 mr-4 mb-2 {{ @resource.data.homepage && 'hidden md:flex' }}">
       <div class="flex gap-2 items-center delay-75 w-[3em] h-[3em]">
         <img src="/images/zen-circle-grunge-brush-stroke-2.png" class="flex-shrink-0 w-[3em] h-[3em]"/>
       </div>
@@ -10,6 +11,7 @@
         <span class="">forward</span>
       </div>
     </a>
+
     <div class="flex flex-wrap w-full items-center text-center mx-auto">
       <a class="group inline-flex space-x-2 items-center rounded-2xl py-4 px-2 font-bold outline-none transition duration-300 hover:bg-stone-800 hover:bg-opacity-5" href="/book" title="The book">
         <div class="ease transition duration-300 opacity-100 group-hover:opacity-0 translate-x-4 group-hover:-translate-x-4">

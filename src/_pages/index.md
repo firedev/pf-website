@@ -3,6 +3,7 @@ layout: homepage
 exclude_from_search: true
 page_class: homepage
 video: true
+homepage: true
 ---
 
 {:.text-5xl .font-bold .tracking-tight .animate .ease .fadeIn .delay-500 .text-center .sm:text-8xl .mt-0 .mb-16 .z-1 .relative}
@@ -11,7 +12,7 @@ video: true
 [//]: # (# Biohack and <mark class="bg-transparent font-extrabold text-stone-800 shadow-[inset_0_-0.5em_0_0_rgb&#40;224,242,254&#41;]">think</mark> <br>your way out)
 
 {:.text-center .text-2xl}
-You start anew every moment. There is only now. Think forward. 
+You begin every moment. There is only now. Think forward. 
 
 {:.text-center .text-2xl}
 {%@ "the_book" %}
@@ -33,12 +34,13 @@ I reached what goes by "englightment" in non-scientific circles and reprogrammed
 <div class="my-12">
   <a href="/book">
     <div class="relative bg-orange-200 mx-auto py-6 rounded text-center shadow-md my-8" style="width: 220px">
-      <div class="absolute shadow-sm shadow-sky-950/10 shadow-opacity-5 right-0 top-0 -mr-5 -mt-5 bg-sky-100  py-2 px-4 rounded-xl flex gap-3">
+      <div class="absolute shadow-sm shadow-slate-950/10 shadow-opacity-5 right-0 top-0 -mr-5 -mt-5 bg-sky-100  py-2 px-4 rounded-xl flex gap-3">
         <span>🚧</span> Soon...
       </div>
       <h2 class="pt-2 pl-4 pb-2 mr-4 bg-white shadow-sm rounded-r">think → forward </h2>
-      <b>Soul Metaprogramming</b>
-      <div class="text-sm p-4">The manual they forgot</div>
+      <div class="px-4"><b>The Soul Programming</b>
+      <div class="text-sm py-4"></div>
+      </div>
     </div>
   </a>
 </div>
