@@ -1,5 +1,5 @@
 <nav>
-  <ul role="list prose">
+  <ul role="list list-none">
   {% current_section = "" %}
   {% @docs.each do |doc_page| %}
     {% next if doc_page.data.hide_in_sidebar || (doc_page.relative_url.split("/").length > 3 && !doc_page.data.show_in_sidebar) %}

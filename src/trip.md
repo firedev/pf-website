@@ -15,7 +15,7 @@ With the help of psychedelics and guided transformative thinking one can achieve
 
 Awake. Enlight. Everyone deserves to know. See what you is made of. See the universe inside. Don't miss your chance to know.
 
-Psychedelic means manifesting psyche — mind, soul. They act differently, but the result is the same. What you achieve a breakthrough, you see yourself, the real you. Your thoughts, your dreams. The world in which you actually live. The world inside in your head. You step away from your map of meaning. The map rolled into the tunnel of reality which lets you see only what you can name. To see how everything really is, you need to get off the map. Into the unspeakable world. 
+Psychedelic means manifesting psyche — mind, soul. They act differently, but the result is the same. What you achieve a breakthrough, you see yourself, the real you. Your thoughts, your dreams. The world in which you actually live. The world inside in your head. You step away from your map of meaning. The map rolled into the tunnel of reality which lets you see only what you can name. To see how everything really is, you need to get off the map. Into the unspeakable world.
 
 To maximize the effect, prepare diligently.
 
@@ -127,7 +127,7 @@ to an inhabited island during the full moon and power it on. Hug the bass and fe
 Take off at the top of a mountain. The sky is magnificent on a starry night. The morning clouds that spread below. The
 tip of the pyramid is the exit.
 
-Walk through the forest or a park in the night. See that the trees are alive. It takes a few hours so the track should 
+Walk through the forest or a park in the night. See that the trees are alive. It takes a few hours so the track should
 be long enough to see the tunnel of reality.
 
 # Why the Full Moon?
@@ -164,17 +164,17 @@ Working on it! Stay tuned...
   <div class="flex flex-wrap">
     <div class="w-4/12">
       <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center" src="images/trip/trip1.jpeg" />
+        <img alt="gallery" class="block h-full w-full rounded object-cover object-center" src="/images/trip/trip1.jpeg" />
       </div>
     </div>
     <div class="flex w-4/12 flex-wrap">
       <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center" src="images/trip/trip2.jpeg" />
+        <img alt="gallery" class="block h-full w-full rounded object-cover object-center" src="/images/trip/trip2.jpeg" />
       </div>
     </div>
     <div class="flex w-4/12 flex-wrap">
       <div class="w-full p-1 md:p-2">
-        <img alt="gallery" class="block h-full w-full rounded object-cover object-center" src="images/trip/trip3.jpeg" />
+        <img alt="gallery" class="block h-full w-full rounded object-cover object-center" src="/images/trip/trip3.jpeg" />
       </div>
     </div>
   </div>
@@ -186,19 +186,19 @@ Working on it! Stay tuned...
     <div class="flex w-4/12 flex-wrap">
       <div class="w-full p-1 md:p-2">
         <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="images/trip/phuket1.jpeg" />
+             src="/images/trip/phuket1.jpeg" />
       </div>
     </div>
     <div class="flex w-4/12 flex-wrap">
       <div class="w-full p-1 md:p-2">
         <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="images/trip/phuket2.jpeg" />
+             src="/images/trip/phuket2.jpeg" />
       </div>
     </div>
     <div class="flex w-4/12 flex-wrap">
       <div class="w-full p-1 md:p-2">
         <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="images/trip/phuket3.jpeg" />
+             src="/images/trip/phuket3.jpeg" />
       </div>
     </div>
   </div>
@@ -210,19 +210,19 @@ Working on it! Stay tuned...
     <div class="flex w-4/12 flex-wrap">
       <div class="w-full p-1 md:p-2">
         <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="images/trip/phangnga1.jpeg" />
+             src="/images/trip/phangnga1.jpeg" />
       </div>
     </div>
     <div class="flex w-4/12 flex-wrap">
       <div class="w-full p-1 md:p-2">
         <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="images/trip/phangnga2.jpeg" />
+             src="/images/trip/phangnga2.jpeg" />
       </div>
     </div>
     <div class="flex w-4/12 flex-wrap">
       <div class="w-full p-1 md:p-2">
         <img alt="gallery" class="block h-full w-full rounded object-cover object-center"
-             src="images/trip/phangnga3.jpeg" />
+             src="/images/trip/phangnga3.jpeg" />
       </div>
     </div>
   </div>

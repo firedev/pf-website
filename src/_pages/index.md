@@ -7,12 +7,14 @@ homepage: true
 ---
 
 {:.text-5xl .font-bold .tracking-tight .animate .ease .fadeIn .delay-500 .text-center .sm:text-8xl .mt-0 .mb-16 .z-1 .relative}
-# Forward thinking, present living.
+# Forward thinking,<br> present living.
 
 [//]: # (# Biohack and <mark class="bg-transparent font-extrabold text-stone-800 shadow-[inset_0_-0.5em_0_0_rgb&#40;224,242,254&#41;]">think</mark> <br>your way out)
 
 {:.text-center .text-2xl}
-You begin every moment. There is only now. Think forward. 
+You begin every moment.
+It's always now.
+Think forward.
 
 {:.text-center .text-2xl}
 {%@ "the_book" %}
@@ -25,9 +27,9 @@ There is an escape hatch from the Matrix. What if you could disconnect from soci
 
 There is a door inside that, once seen, can be opened. Transformative thinking can pick the lock.
 
-With the right attitude, some luck and a little help from biohacking you can break trough to living as intended. Able to reprogram yourself armed with the right mindset. Here is the method worked for me and the people around. 
+With the right attitude, some luck and a little help from biohacking you can break trough to living as intended. Able to reprogram yourself armed with the right mindset. Here is the method worked for me and the people around.
 
-It involves some mental gymnastic in form of questions to contemplate. You can go at your own pace, it's up to you. This is how you start pulling the thread, anyway. 
+It involves some mental gymnastic in form of questions to contemplate. You can go at your own pace, it's up to you. This is how you start pulling the thread, anyway.
 
 I reached what goes by "englightment" in non-scientific circles and reprogrammed myself. This is how I got there and what I learned along the way. Here is my gift to the `IT Crowd` — Smart, Skeptical, Opinionated. Here is what worked.
 
@@ -60,7 +62,7 @@ reflection. It involves adopting a particular mindset and recognizing the subtle
 effectiveness.
 
 Before embarking on this transformative journey, adequate preparation is essential.
-You need to realize what is going on with your life and why the things the way they are. 
+You need to realize what is going on with your life and why the things the way they are.
 Then some mental training is crucial to harness your newfound capabilities.
 The instructions how to use them, is what I call the manual for your life.
 
@@ -69,9 +71,9 @@ The instructions how to use them, is what I call the manual for your life.
 
 # What do you know?
 
-The prison was my own mind indeed. Have you ever feel you were destined for more? Does reality feels confining? 
-Do you feel trapped in an endless cycle of the same Groundhog Day. 
-Pick the lock and get out. Fix yourself. 
+The prison was my own mind indeed. Have you ever feel you were destined for more? Does reality feels confining?
+Do you feel trapped in an endless cycle of the same Groundhog Day.
+Pick the lock and get out. Fix yourself.
 Get your life back. I'll help along the way.
 
 > People do not have a chance to change their beliefs.

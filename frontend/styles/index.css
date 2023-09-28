@@ -42,12 +42,9 @@
     @apply mb-4;
   }
 
-  ol {
-    @apply list-decimal mb-4 ml-8;
-  }
 
   blockquote {
-    @apply bg-white shadow-xl font-serif py-9 px-12 relative lg:mx-8 lg:float-right lg:w-4/12 my-8 clear-both rounded-xl;
+    @apply bg-white shadow-xl font-serif py-9 px-12 relative lg:ml-9 lg:float-right lg:w-4/12 mt-8 mb-16 clear-both rounded-xl;
   }
   .break-words { word-break: break-word }
   .colorful {
@@ -62,6 +59,14 @@
   .prose a {
     @apply decoration-8 decoration-sky-200 underline font-medium;
   }
+
+  .prose ul {
+    @apply list-disc mb-4 ml-8;
+  }
+  .prose ol {
+    @apply list-decimal mb-4 ml-8;
+  }
+
 
   blockquote:after {
     content: '';
