@@ -1,6 +1,6 @@
 ---
-order: 440
-title: Body Mind Soul
+order: 460
+title: Body, Mind, Soul
 top_section: Life
 category: core_concepts
 ---
@@ -24,3 +24,5 @@ The body provides it with the means to interact with the external world. It hold
 Just as a flower needs care, sunlight, and nourishment to blossom, your soul needs the right conditions to flourish. Not just taking care of your physical health, but also nurturing your emotional, mental, and spiritual well-being. When all these aspects are in harmony, the flower is blooming in its perfect pot.
 
 Your task in this world is to cradle and support the flower of your soul. Water it with emotions. It's a unique and intricate relationship that defines your existence and shapes your experience of the world.
+
+But somehow instead of flying like fairies we're crippled by anxiety an everyday stress. What went wrong? 

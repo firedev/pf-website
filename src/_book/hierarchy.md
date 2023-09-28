@@ -1,11 +1,13 @@
 ---
-order: 430
-title: Hierarchy of needs
+order: 440
+title: Hierarchies
 top_section: Life
 category: core_concepts
 ---
 
-![](/images/book/hierarchy-of-needs/joy-51.jpeg)
+The world is an endless unconscious climb up and down hierarchies. We are always sizing ourselves and everybody up, comparing how we are doing and automatically filling in the pre-defined place. We are always in a hierarchy of some kind.
+
+![](/images/book/hierarchies/joy-51.jpeg)
 
 Maslow's pyramid is a well-known blueprint that outlines of human needs and motivations. It's a visual representation of the steps we take to meet our various needs, starting from the most basic ones at the bottom, and progressing upwards.
 
@@ -22,3 +24,5 @@ The pyramids are a symbol of eternity, just like the world itself. And they are 
 > **It's turtles all the way down.** — Terry Pratchett  
 
 Look closer and you will see that down below are the bottomless depths of meaning. Imagine a deep well. As you peer into it, you realize it stretching further than the eye can see. Each layer you uncover, each bit of understanding, only reveals more layers beneath it. Each layer of knowledge is within another, never ending. There is no bottom. "It's turtles all the way down!" 
+
+Don't let yourself be trapped in the endless cycle of hierarchies. Don't participate and get out of the one you are in. 
