@@ -1,5 +1,5 @@
 ---
-order: 460
+order: 440
 title: Body, Mind, Soul
 top_section: Life
 category: core_concepts
@@ -9,11 +9,11 @@ category: core_concepts
 
 Before we continue with the story, let's take a step back and look where our mythical journey takes place.
 
-Here is a simple repsentation of the human psyche:
+Here is a simple representation of the human psyche:
 
-- Body: The body is and Earth suit that we wear. This is the physical vessel that houses us. It's a vehicle that we use to enter the physical world. The exoskeleton for the mind. It's the tangible, biological aspect of our existence. The body interacts with the external environment, experiences sensations, and carries out various functions necessary for survival. The body has it's own intelligence. It is controlled by the Reptile Brain structures, with the help of the spinal cord. It is capable of acting independently not letting you hurt yourself.
-- Mind: It is the flower pot in your head. It encompasses our thoughts, emotions, perceptions, and cognitive functions. It's the seat of our consciousness and intelligence. The mind interprets the external world, processes information, and influences our behavior. And it's plugged into the body directly. Whatever happens in the body, the mind is aware of it. This is the part of you that thinks, feels, and experiences the world. It is controlled by the Monkey Brain. It is capable of acting independently not letting you hurt yourself.
-- Soul: You are the flower that grows inside. The spiritual essence, the soul is seen as the eternal, unchanging core of a person. It's associated with deeper meanings, purpose, and a sense of connection to something greater than oneself. The soul is what believed to transcend the physical realm. It is what we mean by consciousness, identity, I. This is the real you.
+- **Body:** The body is an Earth suit that we wear. This is the physical vessel that houses us. It's a vehicle that we use to enter the physical world. The exoskeleton for the mind. The body interacts with the external environment, experiences sensations, and carries out survival functions. The body has it's own intelligence. It is controlled by the Reptile Brain structures, with the help of the spinal cord. It is capable of acting independently not letting you hurt yourself.
+- **Mind:** It encompasses our thoughts, emotions, perceptions, and cognitive functions. It's the seat of our consciousness and intelligence. The mind interprets the external world, processes information, and influences our behavior. And it's plugged into the body directly. Whatever happens in the body, the mind is aware of it. This is the part of you that thinks, feels, and experiences the world. It is controlled by the Monkey Brain. It is capable of acting independently not letting you hurt yourself.
+- **Soul:** The spiritual essence, the soul is seen as the eternal, unchanging core of a person. It's associated with deeper meanings, purpose, and a sense of connection to something greater than oneself. The soul is what believed to transcend the physical realm. It is what we mean by consciousness, identity, I. This is the real you.
 
 ![](/images/book/body-mind-soul/this-is-us-16x9.png)
 

@@ -5,4 +5,7 @@ nick:
   website: https://firedev.com
 tesla:
   name: Nikola Tesla
-  avatar: /images/avatars/tesla.jpg
+  image: /images/people/tesla.jpeg
+peterson:
+  name: Jordan Peterson
+  image: /images/people/peterson.jpeg

@@ -4,9 +4,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.metadata.myvariable }}.
 
-title: ThinkForward
+title: think→forward
 tagline: Here is what worked
 email: nick@firedev.com
 description: >-
-  How to use transformative thinking to reach awakening in this life
+  Transformative thinking to break out of the loop to reach awakening in this life
 bitcoin: bc1qw8xfp429drna2u8lmr08grt5ajqzftgwakqnp9

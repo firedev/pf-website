@@ -5,6 +5,7 @@ top_section: Introduction
 category: intro
 ---
 
+
 "Know thyself" is a timeless philosophical principle etched onto the ancient Greek Temple of Apollo in Delphi. These words had no meaning until I realized I don't know that. Who am I? What is life? Am I living right? Am I good? Am I brave? Will I betray? 
 
 I tried to find the source of myself, the roots, so to speak. And it turned out to dig it out I had to somehow fix the objective viewpoint.
@@ -31,10 +32,7 @@ Don't lie. Don't do stupid things. And the right people will see you. Those, who
 
 Once I came up with the rules, agreed with them, they became an essential part of the "me" framework. This is how I started to change myself. This triad had served well since. 
 
-> **Stop doing stupid things.**
-> **Stop lying.**
-> **Stop making things worse.**
-> — Jordan Peterson
+{{ render(Quote.new('peterson-stop')) }}
 
 I've since read numerous books on Psychology, Neurology, and Brain Functioning, digging for insights to fix and enrich life. It held more potential than I could imagine with my little brain. Over the next few years, I moved in self-discovery more than I had in my entire life before. I fixed myself.
 

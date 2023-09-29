@@ -1,0 +1,15 @@
+{% for quote in @view_context.collections.quotes.resources %}
+{% if quote.data.slug == @slug %}
+{% author = @view_context.site.data.authors[quote.data.author] %}
+
+
+<blockquote>
+<!--{% if author.image %}-->
+<!--<div class="h-40 bg-top bg-contain bg-no-repeat" style="background-image: url({{ author.image  }})"></div>-->
+<!--{% end %}-->
+<b>{{ quote.content }}</b>
+ <nobr>— {{ author.name }}</nobr>
+ </blockquote>
+
+{% end %}
+{% end %}
