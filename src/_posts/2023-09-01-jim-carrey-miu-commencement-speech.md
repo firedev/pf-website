@@ -1,11 +1,11 @@
 ---
-menu_title: "Jim Carrey's MIU Commencement Speech"
 title: "Jim Carrey's MIU Commencement Speech Transcript 2014 at Maharishi University of Management"
+title: "Jim Carrey's MIU Commencement Speech"
 subtitle: "What I've heard in this great wisdom-filled performance."
 locale: en
 ---
 
-Stumbled upon this transformative speech in the morning. Another golden nugget, affirming that I am on the right path. I couldn't stop thinking about his words and I had some insights by the end of the day.
+Stumbled upon this transformative speech in the morning. Jim Carrey knows what he's talking about. Another golden nugget, affirming that I am on the right path. I couldn't stop thinking about his words and I had some insights by the end of the day.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/V80-gPkpH6M' frameborder='0' allowfullscreen></iframe></div>
 

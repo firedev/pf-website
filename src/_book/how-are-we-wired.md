@@ -14,7 +14,7 @@ They all work in unison and the human baby grows through all phases.
 
 1. Reptilian Brain (Brainstem): This is the most primitive part of our brain, often referred to as the "reptilian brain" because it's similar to the brain structure found in reptiles. It's responsible for basic survival instincts like aggression, dominance, territoriality, and the fight-or-flight response. This part of the brain is associated with our most fundamental needs and instincts.
 
-2. Monkey Brain (Limbric System): This is the next evolutionary stage and is sometimes referred to as the "monkey brain" because it's similar to the brain structure found in mammals. It's primarily responsible for emotions, memory, and social interactions. This part of the brain allows for more complex behaviors and responses compared to the reptilian brain.
+2. Monkey Brain (Limbic System): This is the next evolutionary stage and is sometimes referred to as the "monkey brain" because it's similar to the brain structure found in mammals. It's primarily responsible for emotions, memory, and social interactions. This part of the brain allows for more complex behaviors and responses compared to the reptilian brain.
 
 3. Human Brain (Neocortex): This is the most recent evolutionary addition and is what distinguishes us from other animals. It's sometimes called the "human brain" or the "thinking brain". This part of the brain is responsible for advanced cognitive functions such as logic, reason, language, problem-solving, and abstract thinking. It's what enables us to plan, innovate, and create complex societies.
 

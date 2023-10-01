@@ -77,9 +77,7 @@ With the right attitude, some luck and a little help from biohacking you can bre
 
 It involves some mental gymnastic in form of questions to contemplate. You can go at your own pace, it's up to you. This is how you start pulling the thread, anyway.
 
-I reached what goes by "englightment" in non-scientific circles and reprogrammed myself. This is how I got there and what I learned along the way. Here is my gift to the `IT Crowd` — Smart, Skeptical, Opinionated. Here is what worked.
-
-
+I reached what goes by "enlightment" in non-scientific circles and reprogrammed myself. This is how I got there and what I learned along the way. Here is my gift to the `IT Crowd` — Smart, Skeptical, Opinionated. Here is what worked.
 
 # What worked?
 
@@ -104,7 +102,7 @@ The Groundhog Day is one of my favorites. Do you ever feel there should be somet
 
 # Can I do it by myself?
 
-Another stroke of luck and at some point in life I had a few years of solitude when I did most of the research. Self-therapy works if you actually doing it. Start now. Read the book. See the videos. You need to know what to look for. I am posting everything online.
+I did most of the research by observing myself. Self-therapy works if you actually doing it. Start now. Read the book. See the videos. You need to know what to look for. I am posting everything online. 
 
 Everyone is free to do what they want. So learn yourself, see where you're heading, so you can lead your life. Be the cause, not flowing with the flow.
 
@@ -113,7 +111,7 @@ Live now. Think forward. Break out.
 {%@ "the_book" %}
 
 <a href="/trip" class="block w-full my-16 p-8 bg-cover bg-center lg:bg-fixed rounded-xl center" style="background-image: url(images/alexander-andrews-fsH1KjbdjE8-unsplash.jpg)">
-    <span class="text-3xl font-bold p-8 text-white">See who you really are and what everything is made of.</span>
+  <span class="text-3xl font-bold p-8 text-white">See who you really are and what everything is made of.</span>
 </a>
 
 <div class="flex justify-center text-2xl"><div>

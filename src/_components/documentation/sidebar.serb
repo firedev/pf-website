@@ -16,7 +16,7 @@
         {% active = ' aria-current="true"' %}
       {% end %}
     {% end %}
-    <li><a href="{{ doc_page.relative_url }}"{{ active | safe }}>
+    <li><a class="block" href="{{ doc_page.relative_url }}"{{ active | safe }}>
       {{ doc_page.data.title }}
     </a></li>
   {% end %}
