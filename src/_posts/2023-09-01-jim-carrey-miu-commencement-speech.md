@@ -1,13 +1,15 @@
 ---
-title: Jim Carrey Commencement Speech Transcript 2014 at Maharishi University of Management
+title: "Jim Carrey's Commencement Speech Transcript 2014 at Maharishi University of Management"
+subtitle: "What I've heard in this great wisdom filled performance."
+template_engine: none
 ---
 
-Stumbled upon this transformative speech just yesterday. Another golden nugget on the right path. I couldn't stop thinking about his words and by the end of the day I had some insights.
+Stumbled upon this transformative speech just last morning. Another golden nugget giving me a sign that I on the right path. I couldn't stop thinking about his words and I had some insights by the end of the day.
 
-https://youtu.be/V80-gPkpH6M
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/V80-gPkpH6M' frameborder='0' allowfullscreen></iframe></div>
 
-Here are the parts that touched my heart:
-
+This is what I've heard in this performance. Here are the parts that resonated the most.
+ 
 > I used to believe that who I was ended at the edge of my skin, that I had been given this little vehicle called a body from which to experience creation. And though I couldn’t have asked for a sportier model, it was after all a loner and would have to be returned. Then I learned that everything outside the vehicle was part of me too, and now I drive a convertible. Top down, wind in my hair.
 
 There is no other way to live life as full face forward. It's like diving from the plane with no gear. You know how it's going to end. Let's enjoy it.
@@ -52,7 +54,7 @@ And this just hit the nail on my head, YES! Life is a gift to you and it is for 
 
 > Like many of you, I was concerned about going out into the world and doing something bigger than myself, until someone smarter than myself made me realize that there is nothing bigger than myself. My soul is not contained within the limits of my body. My body is contained within the limitlessness of my soul. One unified field. One unified field of nothing dancing for no particular reason, except maybe to comfort and entertain itself.
 
-Exactly:
+Exactly, think forward. Reset every second:
 
 > As that shift happens in you, you won’t be feeling the world, you’ll be felt by it. You’ll be embraced by it. Now I’m always at the beginning, I have a reset button and I ride that button constantly. Once that button is functioning in your life, there’s no story that the mind could create that will be as compelling. The imagination is always manufacturing scenarios, both good and bad. And the ego tries to keep you trapped in the multiplex of the mind. Our eyes are not viewers. They’re also projectors that are running a second story over the picture that we see in front of us all the time. Fear is writing that script, and the working title is I’ll Never be Enough. 
 
@@ -60,4 +62,4 @@ And this is the most important part:
 
 > And after you walk through those doors today, you will only ever have two choices, love or fear. Choose love, and don’t ever let fear turn you against your playful heart.
 
-https://www.rev.com/blog/transcripts/jim-carrey-commencement-speech-transcript-2014-at-maharishi-university-of-management
+[Full Transcript](https://www.rev.com/blog/transcripts/jim-carrey-commencement-speech-transcript-2014-at-maharishi-university-of-management)

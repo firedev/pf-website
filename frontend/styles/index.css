@@ -44,8 +44,10 @@
 
 
   blockquote {
-    @apply bg-white shadow-xl tracking-tight py-9 px-12 relative lg:ml-9 lg:float-right lg:w-4/12 mt-8 lg:mt-0 mb-16 clear-both rounded-xl;
+    @apply font-medium tracking-tighter bg-white shadow-xl tracking-tight py-9 px-12 relative lg:ml-9 lg:float-right lg:w-4/12 mt-8 lg:mt-0 mb-16 clear-both rounded-xl;
   }
+
+
   .break-words { word-break: break-word }
   .colorful {
     @apply text-sky-900;
@@ -67,7 +69,12 @@
   .prose ol {
     @apply list-decimal mb-4 ml-8;
   }
-
+  .prose blockquote {
+    @apply lg:float-none lg:w-full lg:mx-0 lg:my-8;
+  }
+    .prose blockquote, .prose>p {
+        @apply my-8;
+    }
 
   blockquote:after {
     content: '';

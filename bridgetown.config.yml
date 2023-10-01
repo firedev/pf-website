@@ -1,4 +1,4 @@
-url: "https://thinkforward.club"
+url: "https://thinkforward.academy"
 permalink: simple
 timezone: America/Los_Angeles
 template_engine: serbea
@@ -9,9 +9,14 @@ collections:
     permalink: "/:collection/:path/"
     sort_by: order
     name: Book
+  posts:
+    output: true
+    permalink: "/:collection/:path/"
+    sort_by: order
+    name: Posts
   quotes:
     output: false
-    permalink: "/:collection/:path.*"
+    permalink: "/:collection/:path/"
     sort_by: order
     name: Quotes
   music:

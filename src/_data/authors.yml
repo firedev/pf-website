@@ -1,6 +1,6 @@
 nick:
-  name: Nikolay Ostrovsky
-  avatar: /images/avatars/nick.jpg
+  name: Nikolay
+  #  avatar: /images/avatars/nick.jpg
   twitter: firedev
   website: https://firedev.com
 tesla:
