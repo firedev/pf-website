@@ -11,23 +11,24 @@ title: Trip properly.
 # Trip properly
 
 
-With the help of psychedelics and guided transformative thinking one can achieve buddha-state in this life. See the things as they are. It is a magic pill, but it's also a job. The job. The work on oneself. Is a fun job, but it's still a job.
+With the help of psychedelics and transformative thinking one can break out trough the shackles that are holding back. Then the life begin to truly unfold. You start seeing more in everything. And you are given the ability to mend what's broken inside of you. Once you feel that feedback loop, the world starts changing in return.
 
-Awake. Enlight. Everyone deserves to know. See what you is made of. See the universe inside. Don't miss your chance to know.
 
-Psychedelic means manifesting psyche — mind, soul. They act differently, but the result is the same. What you achieve a breakthrough, you see yourself, the real you. Your thoughts, your dreams. The world in which you actually live. The world inside in your head. You step away from your map of meaning. The map rolled into the tunnel of reality which lets you see only what you can name. To see how everything really is, you need to get off the map. Into the unspeakable world.
+## Not many tries left
 
-To maximize the effect, prepare diligently.
+Psychedelic means manifesting psyche — mind, soul. They act differently, but the result is the same. You start seeing your thoughts. They become tangible and you can work with them.
+
+You can change the world in which you actually live. The world inside your head. 
+But you can't do it too often because the magic wanes. We don't have that many chances to understand the world and ourselves. We need to make the most of it.
+
+To maximize the effect, prepare diligently. **Do the homework.**
 
 {:.text-4xl .font-bold .tracking-tight .animate .ease .fadeIn .delay-500 .text-center .sm:text-6xl .mb-8 .z-1 .relative}
 # To infinity and beyond
 
-
 Proper trip often is life-changing. If you are prepared, know what to expect and what to pay attention to, it might transform you on the spot. A comprehensive approach ensures safe and transformative experience. I'm sharing this for those interested in exploring brain-hacking techniques.
 
-It is important to minimize the bad trip and then reinforce the insights while they are fresh.
-
-You might get frightened or start freaking out. The best way to proceed is to just accept the experience. It is only you.
+It is important to minimize the risk of bad trip and then reinforce the insights while they are fresh. You might get frightened or start freaking out. The best way to proceed is to just accept the experience. Whatever happens is only you.
 
 The other common issue is nausea, which usually goes away, after a while. Warming-up and body reaction testing helps.
 
@@ -41,18 +42,17 @@ everything goes as planned. Rebirth is practically guaranteed.
 
 ## 1. Set.
 
-First is the mindset. Approach this with eagerness to accept whatever comes your way. Remember, you're only seeing yourself. I try to tune in by asking myself some philosophical questions "How to live?", "What am I doing?", "What is my best move?" and the like.
+First is the mindset. Approach this with eagerness to accept whatever comes your way. Remember, you're only seeing yourself. I try to tune in by asking myself some philosophical questions "Who am I?", "What do I want?", "What do I do?", "Where do I go?", I'll put up a list of for the self-guided sessions.
 
 ## 2. Setting.
 
 Setting is time, space and the environment. I've found that early mornings in a remote, people-free location work best. For those who thrive at night, I suggest trying it alone outside during a full moon. So you don't bang into something in total darkness. Prepare the playlist, only top-shelf golden tracks, no words. DJ Mixes work wonders. See the examples in (Music)[/music]
 
-## 3. Sitter.
+## 3. ~~Sitter.~~ Trip advisor.
 
 In a few trips you grow enough neurons to be always in control. I recommend the first breaktrough trip to be done with an experienced guide to help dive in and out. It's important to record the insights while you see the world as it is. If everything goes super smooth — the guide melts into the background so you could concentrate on yourself.
 
-
-Then you should start using your new abilities, while the gates inside are open to learn what it's like. The forward thinking, seeing things as they are, and the life control. This is why a coaching session is a must.
+You should start using your new abilities, while the gates inside are still open. Grow new neural connections towards them. The forward thinking, seeing things as they are, and the life control. This is why a coaching session is a must to properly integrate it. The questions start flowing in immediately. I'll put a list too.
 
 <div class="bg-sky-100 rounded-xl p-16 max-w-screen-xl my-16">
   <h1 class="mt-0">My next moves:

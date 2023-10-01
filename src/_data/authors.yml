@@ -9,3 +9,6 @@ tesla:
 peterson:
   name: Jordan Peterson
   image: /images/people/peterson.jpeg
+morpheus:
+  name: Morpheus
+  image: /images/people/morpheus.jpeg

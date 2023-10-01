@@ -2,10 +2,4 @@
 #
 # Common post categories:
 
-- news
-- future
-- bugfix
-- release
-- feature
-- showcase
-- videos
+- #talks

@@ -44,7 +44,7 @@
 
 
   blockquote {
-    @apply bg-white shadow-xl font-serif py-9 px-12 relative lg:ml-9 lg:float-right lg:w-4/12 mt-8 mb-16 clear-both rounded-xl;
+    @apply bg-white shadow-xl tracking-tight py-9 px-12 relative lg:ml-9 lg:float-right lg:w-4/12 mt-8 lg:mt-0 mb-16 clear-both rounded-xl;
   }
   .break-words { word-break: break-word }
   .colorful {
@@ -60,6 +60,7 @@
     @apply decoration-8 decoration-sky-200 underline font-medium;
   }
 
+  ul.prose,
   .prose ul {
     @apply list-disc mb-4 ml-8;
   }

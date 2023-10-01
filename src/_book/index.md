@@ -10,9 +10,9 @@ category: intro
 
 I tried to find the source of myself, the roots, so to speak. And it turned out to dig it out I had to somehow fix the objective viewpoint.
 
-So to apply the scientific method of self-discovery I had to assess my own behaviour in different situation. But staying objective towards oneself is really hard, you are inside. To make things easier I came up with the first rule of life.
+So to apply the scientific method of self-discovery I had to assess my own behaviour in different situation. But staying objective towards oneself is really hard, you are inside. To make things easier I came up with _the_ rule of life:
 
-## Rule 1: Do not lie, especially to yourself.
+## Do not lie, especially to yourself.
 
 You are the easiest people to fool. The Do Not Lie mantra has revealed itself as the bedrock of existence. It acts as an antidote to a psychic phenomenon Buddha identified as the 'clinging'. We habitually dissect and classify every experience we undergo. Our minds grasp onto viewpoints, beliefs, and opinions. We adhere to customary rituals to the extent of fixation. Our bodies seek sensory gratification, craving stimuli for all five senses. In addition, there's an odd lens that distorts our perception of ourselves. The mind sticks to everything, wants more, and whispers in our ear. Strangely it became obvious that I was wanting and doing things I regretted later.
 
@@ -20,13 +20,11 @@ To combat this I stopped lying completely. It felt a little strange at first, bu
 
 After such success I had to come up with the second rule to keep the professional life in order:
 
-## Rule 2: Don't deal with jerks. 
+Don't deal with jerks. 
 
-If someone sets you up on small stuff, they will do it when shit hits the fan. You can't totally avoid them. Sometimes they can be your co-workers and professionals. Just don't get involved with them. And, because it is crucial to find the right people, someone you can trust, the flipside rule: 
+If someone sets you up on small stuff, they will do it when shit hits the fan. You can't totally avoid them. Sometimes they can be your co-workers and professionals. Just don't get involved with them. And, because it is crucial to find the right people, someone you can trust, the flipside rule:
 
-
-
-## Rule 3: Don't be a jerk.
+Don't be a jerk.
 
 Don't lie. Don't do stupid things. And the right people will see you. Those, who's intentions are good, won't be misunderstood. The rest will eventually fall off the wagon. 
 
