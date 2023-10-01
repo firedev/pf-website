@@ -20,8 +20,9 @@ We are all storytellers, crafting narratives that we think might help us navigat
 Those stories unfold in a fictional space in our heads which is a reflection of the world around us. But as we know reality is much more than we can comprehend. So we pack the parts of it into the mind map in our head. The map of meaning.
 
 While science aims to measure and explain the tangible world of things, the map of meaning is a more abstract construct. Unlike scientific maps that chart physical territory, maps of meaning chart the psychological and emotional terrain of our inner world.
-
-> What do you believe is going on in you life right now?
+ 
+{:.bubble}
+> Ask yourself: What do you believe is going on in you life right now?
 
 A person's map of meaning is constructed from a blend of personal experiences, cultural narratives, and philosophical views. It incorporates elements from their upbringing, background, beliefs, and personal reflections. It shapes how we interpret events, assign meaning to experiences, and define our values. It steers the story we tell ourselves. What do you believe is going on right now?
 

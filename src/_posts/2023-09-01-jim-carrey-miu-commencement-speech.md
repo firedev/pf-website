@@ -1,10 +1,11 @@
 ---
-title: "Jim Carrey's Commencement Speech Transcript 2014 at Maharishi University of Management"
-subtitle: "What I've heard in this great wisdom filled performance."
-template_engine: none
+menu_title: "Jim Carrey's MIU Commencement Speech"
+title: "Jim Carrey's MIU Commencement Speech Transcript 2014 at Maharishi University of Management"
+subtitle: "What I've heard in this great wisdom-filled performance."
+locale: en
 ---
 
-Stumbled upon this transformative speech just last morning. Another golden nugget giving me a sign that I on the right path. I couldn't stop thinking about his words and I had some insights by the end of the day.
+Stumbled upon this transformative speech in the morning. Another golden nugget, affirming that I am on the right path. I couldn't stop thinking about his words and I had some insights by the end of the day.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/V80-gPkpH6M' frameborder='0' allowfullscreen></iframe></div>
 
@@ -12,7 +13,7 @@ This is what I've heard in this performance. Here are the parts that resonated t
  
 > I used to believe that who I was ended at the edge of my skin, that I had been given this little vehicle called a body from which to experience creation. And though I couldn’t have asked for a sportier model, it was after all a loner and would have to be returned. Then I learned that everything outside the vehicle was part of me too, and now I drive a convertible. Top down, wind in my hair.
 
-There is no other way to live life as full face forward. It's like diving from the plane with no gear. You know how it's going to end. Let's enjoy it.
+There is no other way to live life as full face forward. It's like diving out of the plane with no gear. You know how it's going to end, so let's enjoy it.
 
 > You have given them the ability to walk behind the mind’s elaborate set decoration and to see that there’s a huge difference between a dog that is going to eat you in your mind and an actual dog that is going to eat you.
 > 

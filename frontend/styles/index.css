@@ -43,9 +43,6 @@
   }
 
 
-  blockquote {
-    @apply font-medium tracking-tighter bg-white shadow-xl tracking-tight py-9 px-12 relative lg:ml-9 lg:float-right lg:w-4/12 mt-8 lg:mt-0 mb-16 clear-both rounded-xl;
-  }
 
 
   .break-words { word-break: break-word }
@@ -70,7 +67,11 @@
     @apply list-decimal mb-4 ml-8;
   }
   .prose blockquote {
-    @apply lg:float-none lg:w-full lg:mx-0 lg:my-8;
+    @apply pl-8 border-l-2 border-l-slate-300;
+  }
+
+  blockquote.bubble {
+    @apply border-0 font-medium tracking-tighter bg-white shadow-xl tracking-tight py-9 px-12 relative lg:ml-9 lg:float-right lg:w-4/12 mt-8 lg:mt-0 mb-16 clear-both rounded-xl;
   }
     .prose blockquote, .prose>p {
         @apply my-8;

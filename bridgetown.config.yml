@@ -3,6 +3,10 @@ permalink: simple
 timezone: America/Los_Angeles
 template_engine: serbea
 
+available_locales: [en, ru]
+default_locale: en
+prefix_default_locale: false
+
 collections:
   book:
     output: true

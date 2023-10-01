@@ -41,7 +41,7 @@ Break out.
 {:.text-4xl .tracking-tight .my-8}
 # Modern insightment for skeptics
 
-**Insightment** — "insight" + "enlightenment," a profound understanding, a moment of clarity.
+**Insightment** — "insight" + "enlightenment". A profound understanding, a moment of clarity.
 
 Much like a river's flow, life is in a constant state of change. Thinking forward means acknowledging this flow and navigating it skillfully. By being aware of impermanence, we can prepare ourselves for what lies ahead, adapting with wisdom and compassion. Instead of trying to control the river, or swimming upstream, we should only steer our own boat, making the journey more purposeful and harmonious.
 
@@ -67,8 +67,6 @@ the future filled with purpose and fulfillment.
 
 Sounds familiar?
 
-
-
 # What if I told you...
 
 There is an escape hatch from the Matrix. What if you could disconnect from society's imposed "norms"? Could you create your own rules? Could you live the life you are capable of?
@@ -85,7 +83,8 @@ I reached what goes by "englightment" in non-scientific circles and reprogrammed
 
 # What worked?
 
-> People do not have a chance to change their beliefs.
+{:.bubble}
+> People often do not have a chance to change their beliefs.
 > We have to come up with the new therapy techniques.
 
 Through research and experimentation. I've unveiled a pathway that, while reliable, requires dedication and inner
@@ -98,16 +97,16 @@ Mind training is crucial to harness your newfound capabilities.
 The instructions how to use them, is what I call the manual for your life.
 
 
-# Can I even unplug?
+# Can I really unplug?
 
-Buddha said everybody has a chance. The prison is our own mind indeed.  Does reality feels confining?
-The Groundhog Day is one of my favorites. Have you ever feel there should be something more? Sounds strange even saying that. I'll find a better way to put it. Anyway, you are not alone. There is a way out. But you literally have to break out of that shell inside of yourself. 
+Buddha said everybody has a chance. The prison is our own mind indeed. Does reality feels confining?
+The Groundhog Day is one of my favorites. Do you ever feel there should be something more? Sounds strange even saying that. Anyway, you are not alone. There is a way out. But you literally have to break out of that shell inside of yourself. 
 
 # Can I do it by myself?
 
-Another stroke of luck and at some point in life I had a few years of solitude when I did most of the research. Self-therapy works if you Do it. Start now. Read the book. See the videos. You need to know what to look for. I am posting everything online.
+Another stroke of luck and at some point in life I had a few years of solitude when I did most of the research. Self-therapy works if you actually doing it. Start now. Read the book. See the videos. You need to know what to look for. I am posting everything online.
 
-Everyone is free to do what they want. Learn yourself. Lead your life. Be the cause.
+Everyone is free to do what they want. So learn yourself, see where you're heading, so you can lead your life. Be the cause, not flowing with the flow.
 
 Live now. Think forward. Break out.
 

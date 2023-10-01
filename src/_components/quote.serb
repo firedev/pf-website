@@ -4,7 +4,7 @@
 {% author = @view_context.site.data.authors[quote.data.author] %}
 
 
-<blockquote>
+<blockquote class="bubble">
 <!--{% if author&.image %}-->
 <!--<div class="h-40 bg-top bg-contain bg-no-repeat" style="background-image: url({{ author.image  }})"></div>-->
 <!--{% end %}-->
