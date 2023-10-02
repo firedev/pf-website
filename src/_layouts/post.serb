@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="flex gap-4 justify-center">
-  <aside class="hidden md:block pl-4 min-w-screen-md py-5 flex-shrink-0 w-60">
+  <aside class="hidden md:block min-w-screen-md flex-shrink-0 w-60">
+    <h3>Posts</h3>
     {%@ Documentation::Sidebar docs: collections.posts.resources, resource: resource %}
   </aside>
   <div class="max-w-screen-xl mx-auto px-10 xl:px-16 py-10 w-full">

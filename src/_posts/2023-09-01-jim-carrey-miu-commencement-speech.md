@@ -55,11 +55,11 @@ And this just hit the nail on my head, YES! Life is a gift to you and it is for 
 
 > Like many of you, I was concerned about going out into the world and doing something bigger than myself, until someone smarter than myself made me realize that there is nothing bigger than myself. My soul is not contained within the limits of my body. My body is contained within the limitlessness of my soul. One unified field. One unified field of nothing dancing for no particular reason, except maybe to comfort and entertain itself.
 
-Exactly, think forward. Reset every second:
+Exactly, reset every second. So you can only think forward:
 
 > As that shift happens in you, you won’t be feeling the world, you’ll be felt by it. You’ll be embraced by it. Now I’m always at the beginning, I have a reset button and I ride that button constantly. Once that button is functioning in your life, there’s no story that the mind could create that will be as compelling. The imagination is always manufacturing scenarios, both good and bad. And the ego tries to keep you trapped in the multiplex of the mind. Our eyes are not viewers. They’re also projectors that are running a second story over the picture that we see in front of us all the time. Fear is writing that script, and the working title is I’ll Never be Enough. 
 
-And this is the most important part:
+And this is the best important part:
 
 > And after you walk through those doors today, you will only ever have two choices, love or fear. Choose love, and don’t ever let fear turn you against your playful heart.
 

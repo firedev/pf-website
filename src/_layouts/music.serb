@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="flex gap-4 justify-center">
-  <aside class="hidden md:block pl-4 min-w-screen-md py-5 flex-shrink-0 w-60">
+  <aside class="hidden md:block min-w-screen-md flex-shrink-0 w-60">
     <h3>Music</h3>
     {%@ Documentation::Sidebar docs: collections.music.resources, resource: resource %}
   </aside>

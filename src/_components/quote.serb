@@ -8,7 +8,7 @@
 <!--{% if author&.image %}-->
 <!--<div class="h-40 bg-top bg-contain bg-no-repeat" style="background-image: url({{ author.image  }})"></div>-->
 <!--{% end %}-->
-  <strong class="font-medium">{{ quote.content }}</strong>
+  <strong class="font-medium">{{ quote.content | markdownify }}</strong>
   <div class="text-right opacity-50">
     <nobr>— {{ author&.name || quote_author }}</nobr>
   </div>
