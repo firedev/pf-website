@@ -1,0 +1,18 @@
+{% for book in @view_context.collections.books.resources %}
+{% if book.data.slug == @slug %}
+{% book_author = book.data.author %}
+{% author = @view_context.site.data.authors[book.data.author] %}
+
+{{ book.data.image }}
+<div class="flex gap-8">
+  <div class="h-60 w-60 bg-top bg-contain bg-no-repeat" style="background-image: url({{ book.data.image }})"></div>
+  <div>
+    <h1>{{ book.data.title }}</h1>
+      <h2>{{ book.data.subtitle }}</h2>
+
+      {{ book.data.takeaway | markdownify }}
+
+  </div>
+</div>
+{% end %}
+{% end %}

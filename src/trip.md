@@ -4,19 +4,17 @@ title: Trip properly.
 ---
 
 {:.max-w-sm .mx-auto}
-![](/images/sporeprint.png)
+![](/images/mycellium.png)
 
 
 {:.text-5xl .font-bold .tracking-tight .animate .ease .fadeIn .delay-500 .text-center .sm:text-8xl .mt-0 .mb-16 .z-1 .relative}
 # Trip properly
 
+Once you get in the groove and sense that feedback loop, the world begins to change in response. You start to perceive more in everything, and life unfolds in return. Mend what was once broken within and influence the world outside. Deliberate transformative thinking with a pinch of psychedelic, can transform life in a day. Do the research. Google it.
 
-With the help of psychedelics and transformative thinking one can break out trough the shackles that are holding back. Then the life begin to truly unfold. You start seeing more in everything. And you are given the ability to mend what's broken inside of you. Once you feel that feedback loop, the world starts changing in return.
+## One trip can change your life
 
-
-## Not many tries left
-
-Psychedelic means manifesting psyche — mind, soul. They act differently, but the result is the same. You start seeing your thoughts. They become tangible and you can work with them.
+Psychedelic means manifesting psyche, soul-manifestors. They act differently, but the result is the same. You start seeing your thoughts. They become tangible and you can work with them. Fix your mind. Fix your thoughts. Fix your life.
 
 You can change the world in which you actually live. The world inside your head. 
 But you can't do it too often because the magic wanes. We don't have that many chances to understand the world and ourselves. We need to make the most of it.
@@ -40,6 +38,8 @@ everything goes as planned. Rebirth is practically guaranteed.
 {:.text-4xl .font-bold .tracking-tight .animate .ease .fadeIn .delay-500 .text-center .sm:text-6xl .mb-8 .z-1 .relative}
 # SSS: Set, Settings, Sitter
 
+Do not do it on the parties, rave concerts and the like. To have a mind-blowing experience you need to be in a safe and comfortable environment. With no distractions. And no people around. You need to be able to concentrate on yourself.
+
 ## 1. Set.
 
 First is the mindset. Approach this with eagerness to accept whatever comes your way. Remember, you're only seeing yourself. I try to tune in by asking myself some philosophical questions "Who am I?", "What do I want?", "What do I do?", "Where do I go?", I'll put up a list of for the self-guided sessions.
@@ -52,7 +52,11 @@ Setting is time, space and the environment. I've found that early mornings in a 
 
 In a few trips you grow enough neurons to be always in control. I recommend the first breaktrough trip to be done with an experienced guide to help dive in and out. It's important to record the insights while you see the world as it is. If everything goes super smooth — the guide melts into the background so you could concentrate on yourself.
 
-You should start using your new abilities, while the gates inside are still open. Grow new neural connections towards them. The forward thinking, seeing things as they are, and the life control. This is why a coaching session is a must to properly integrate it. The questions start flowing in immediately. I'll put a list too.
+## Not many chances left
+
+Psychedelics are self-regulating and the magic wanes. Basically you can't trip too often. This is why it's important to make the most of it.
+
+Start using your new abilities, while the gates inside are still open. Grow new neural connections towards the forward thinking, towards seeing things as they are, towards the life control. The questions start flowing in immediately. This is why an integration session is needed. I'll put up a list too.
 
 <div class="bg-sky-100 rounded-xl p-16 max-w-screen-xl my-16">
   <h1 class="mt-0">My next moves:
@@ -105,10 +109,9 @@ You should start using your new abilities, while the gates inside are still open
 
 # Here's how I'd do it
 
-Have a few days stay somewhere not in the city, away from people. Secluded places are best to mentally decompress with no distractions.
+Arrange a few days somewhere not in the city, away from people. Secluded places are best to mentally decompress with no distractions.
 
-Have a cool-down and warm-up period. Start easing into the guided exploration of the neural constellations. Check bodily reactions to microdosing. And slowly turn the knob
-to eleven.
+Have a cool-down and warm-up period. Start easing into the guided exploration of the neural constellations. Check bodily reactions to microdosing. And slowly turn the knob to eleven.
 
 For the main event see The Ideas below. It should be mind blowing. With no other people around.
 
@@ -121,7 +124,7 @@ Then unplug. Immerse in the experience of guided consciousness exploration.
 
 I preach tripping outside so you can blend in with nature. The best place is somewhere far reaching. The best times are sunrise, sunset and the full moon.
 
-Music has serious healing effect. The magic is in the frequencies. I plan to get the best portable sound system. Go
+Music has serious healing effect. The magic is in the frequencies. Get the best portable sound system. Go
 to an inhabited island during the full moon and power it on. Hug the bass and feel the vibrations. Feel the magic.
 
 Take off at the top of a mountain. The sky is magnificent on a starry night. The morning clouds that spread below. The

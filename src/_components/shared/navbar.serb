@@ -1,7 +1,7 @@
 <header class="homepage-no-shadow transition-shadows py-5 px-4 sm:py-7 shadow-2xl shadow-stone-600/10 relative z1 xdark:bg-stone-900 xdark:bg-opacity-80 xdark:shadow-none">
-  <div class="flex flex-col sm:items-center sm:flex-row w-full gap-4 max-w-screen-2xl mx-auto">
+  <div class="flex flex-col lg:items-center lg:flex-row w-full gap-4 max-w-screen-2xl mx-auto">
 
-    <a href="/" class="flex items-center gap-4 mx-3 mb-2 {{ @resource.data.homepage && 'hidden md:flex' }}">
+    <a href="/" class="flex items-center gap-4 mx-3 mb-2 {{ @resource.data.homepage && 'hidden lg:flex' }}">
       <div class="flex flex-shrink-0 gap-2 items-center delay-75 w-[3em] h-[3em]">
         <img src="/images/zen-circle-grunge-brush-stroke-2.png" class="flex-shrink-0 w-[3em] h-[3em]"/>
       </div>

@@ -28,6 +28,11 @@ collections:
     permalink: "/:collection/:path/"
     sort_by: order
     name: Music
+  books:
+    output: true
+    permalink: "/:collection/:path/"
+    sort_by: order
+    name: Books
 
 pagination:
   enabled: true
