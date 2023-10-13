@@ -8,6 +8,19 @@ layout: default
     {%@ Documentation::Sidebar docs: collections.posts.resources, resource: resource %}
   </aside>
   <div class="max-w-screen-xl mx-auto px-10 xl:px-16 py-10 w-full">
+    <div class="flex gap-4  items-center">
+      {% for local_resource in resource.all_locales.sort %}
+        {% if local_resource.data.locale == resource.data.locale %}
+          <div class="bg-white text-slate-500 p-4 rounded-xl">
+            {{ local_resource.data.locale | t }}
+          </div>
+        {% else %}
+          {%@ Button href: local_resource.relative_url do %}
+            {{ local_resource.data.locale | t }}
+          {% end %}
+        {% end %}
+      {% end %}
+    </div>
     <main-content>
       <section-wrapper>
         <section>

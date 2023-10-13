@@ -20,4 +20,6 @@ They all work in unison and the human baby grows through all phases.
 
 During the development of a human baby, these three parts of the brain go through various stages of growth and maturation. The reptilian brain is crucial for basic survival instincts in early stages of life. The monkey brain develops as the child starts to interact with their environment and other people, experiencing emotions and forming memories. Finally, the human brain, particularly the neocortex, undergoes significant development as the child grows, allowing for higher-level thinking and complex cognitive functions.
 
+![](/images/book/how-are-we-wired/c1d95fc9-5c67-4c96-828e-83762e9c6789.jpeg)
+
 In essence, these three parts of the brain work together in a seamless manner, each contributing to different aspects of our behavior and cognition. This layered evolution is a testament to the complexity and sophistication of the human brain.

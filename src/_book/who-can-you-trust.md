@@ -1,7 +1,7 @@
 ---
 order: 30
 title: Who can you trust?
-top_section: Who we are
+top_section: You are not you
 category: core_concepts
 
 ---

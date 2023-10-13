@@ -1,4 +1,5 @@
 ---
+author: alan-watts
 title: The Book
 subtitle: On the Taboo Against Knowning Who You Are
 image: /images/books/alan-watts-the-book.jpeg

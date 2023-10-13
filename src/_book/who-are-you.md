@@ -1,7 +1,7 @@
 ---
 order: 20
-title: Who are you?
-top_section: Who we are
+part: Part 1. Theory
+top_section: You are not you
 category: core_concepts
 ---
 

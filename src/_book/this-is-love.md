@@ -1,6 +1,6 @@
 ---
 order: 110
-title: This is love
+title: All is full of love
 top_section: What's inside
 category: core_concepts
 
@@ -11,7 +11,9 @@ From the simplest bacterium to the most complex human being, there exists a fund
 
 It is the silent force that drives every living entity to survive, grow, and thrive. It's universal and needs no explanation. It's the reason even a single-celled organism seeks nourishment, and it's what compels a plant to reach for the sunlight. The love for life is often expressed as a deep-seated instinct to protect oneself, to seek out nourishment, and to form connections with others.
 
-Interestingly, it's often the little ones, both human and animal, who seem to feel and revel in this love for life most profoundly. It's the reactor that powers our lives. It's a pity that somewhere along the journey, that vibrant inner light begins to dim. This is why I am writing these words. It's always easier to prevent.
+{%@ render(Quote.new('bjork-all-is-full-of-love')) %}
+
+Look at the children, they are happy and curious. Well, most of the time. But you get the point, when the little ones, both human and animal, have their needs met, they revel in this love for life most profoundly. It's the fuel that powers our lives. It's a pity that somewhere along the journey, that vibrant inner light begins to dim. This is why I am writing these words. It's easier to prevent.
 
 ![The Love for Life](/images/book/this-is-love/joy-16.jpeg)
 

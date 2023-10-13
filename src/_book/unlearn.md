@@ -17,33 +17,33 @@ The master calmly looked up at the student and said, "Like this teacup, you are 
 
 # Deconditioning
 
-In a world inundated with information and ideologies that fill our minds with different ideas, it's impossible to keep yours clear. In the quest for self-discovery, it's imperative to first shed the layers of societal conditioning. This process involves dismantling long-held beliefs and venturing into uncharted territories of thought. 
+In a world inundated with information and ideologies that fill our minds with different ideas, it's impossible to keep it empty for the new stuff. In the quest for self-discovery, it's imperative to first shed the layers of societal conditioning. This process involves dismantling long-held beliefs and venturing into uncharted territories of thought. 
 
 To get the new information in, you have to unlearn a bit of what you've been conditioned to through all your life. Just as the teacup needed to be emptied before it could be filled again, so too must the mind be free from preconceptions and fixed ideas. Only after letting it go, one could unveil a profound truth: we are not confined to the limits of our physical form. Try to adopt a beginner's mind, free from the constraints of what we think we already know.
 
+![](/images/book/unlearn/83de5019-e89c-4fef-b920-a84dd73320f6.jpeg)
+
 # We are not our body
 
-In my contemplative solitude, I began to ponder the nature of my physical form. It became clear that this body was not a permanent abode. Our bodies are the vessels for the journey of consciousness, the transient vehicles through which we can navigate the world.
+If y I began to ponder the nature of my physical form. It became clear that this body was not a permanent abode. Our bodies are the vessels for the journey of consciousness, the transient vehicles through which we can navigate the world.
 
-No one can tell for sure what their soul looks like. But we can be sure that it's not having the same shape as our body. Our body is like the space suit astronauts use to go out in space. The only difference is you are always connected to your Earth-suit. Similar to the gigantic robots in the movie "Pacific Rim". It's just a temporary home for the soul.
+No one can tell for sure what their soul looks like. We can't see inside ourselves. Our body is like the space suit astronauts use to go out in space. The only difference is that you are always connected to your Earth-suit. Similar to the gigantic robots in the movie "Pacific Rim". It's a temporary home for the soul.
 
 # We are not ourselves
 
-Perhaps, after all, you are 'you'? Initially, the concept that we are not truly ourselves might appear perplexing. After all, isn't our individuality the very essence of who we are?
+Perhaps, after all, you are you? Initially, the concept that we are not truly ourselves might appear perplexing. After all, isn't our individuality the very essence of who we are?
 
-Humans cannot exist in isolation. Tales of 'mancubs' raised by wolves, evolving into perfect humans, are mere fables. Actual 'Mowglis' cannot speak or behave like humans, nor can they grasp language and culture. They are unable to become humans.
+Being human is a complex process that involves assimilating the culture of other humans and the world around us. We learn, we adapt, and we internalize the norms and values that surround us. Our minds are tirelessly processing and organizing the model of the world within us.
 
-Being human is a complex process that involves assimilating the culture of other humans and the world around us. We learn, we adapt, and we internalize the norms and values that surround us. Our minds are ceaseless workshops, tirelessly processing and organizing the intricate model of the world that resides within us.
+Humans cannot exist in isolation. Tales of mancubs raised by wolves, evolving into humans, are just tales. Actual Mowglis cannot speak, nor can they grasp language and culture. Being human is a process that happens in stages. After the key stage is passed it's almost impossible to learn some key skills like walking or speaking. They are unable to ever become truly human, despite being organically 100% humans.
 
-In the face of modern assertions that champion self-sufficiency and independence, it is crucial to recognize that our identity is not confined to the limits of our physical form. The essence of being human is not a solitary endeavor. It is a collective venture. It is intertwined with the tapestry of existence.
+Our identity is not confined to the limits of our physical form. The essence of being human is not a solitary endeavor. It is intertwined with the fabric of existence. It is a neverending process of becoming. But not becoming yourself.
 
 # We absorb everything from other people
 
-The phenomenon of human cognition is nothing short of miraculous. As soon as the child comes into this world its brain starts sucking information from the environment. The child is like a sponge. It absorbs everything. 
+The phenomenon of a human brain is a miracle. As soon as the child comes into this world its brain starts sucking information like a vacuum. It absorbs everything. Just by looking and hearing other people speaking the child starts talking.
 
-A newborn's mind is like an empty canvas waiting to be painted with the colors of the world. In every glance, every touch, every whispered word, the child is absorbing the essence of the environment. Constantly sucking in, scanning, interpreting, and internalizing the world around them.
-
-It's not only the information but also the emotions and the energy of the people around. As the child absorbs the attitudes and convictions of those around them, a complex web of understanding begins to take shape. They inherit not only the knowledge of their elders but also the implicit biases, cultural norms, and societal narratives that shape their worldview.  
+A newborn's mind is like an empty cup waiting to be filled with the colors of the world. So it starts absorbing the essence of the environment. Constantly internalizing the world around. And we start imitating the world around us. We inherit not only the rituals but also the implicit biases, cultural norms, and societal narratives that shape their worldview. We are becoming the people we are surrounded by.  
 
 # Their myths define your roles
 
@@ -93,6 +93,10 @@ Growing up we start imitating the rituals, knocking on wood to ward off evil spi
 Our perceptions, beliefs, and interpretations are subjective constructs, influenced by a multitude of factors. We are happy to be fooled. Our minds are full of cognitive biases - mental shortcuts leading us to irrational judgments. These biases are a product of evolutionary processes, developed to help us make quick decisions in complex environments. 
 
 But they only lead to misinterpretations of reality.
+
+It is not real
+
+---
 
 # The Reading List
 

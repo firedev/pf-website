@@ -13,7 +13,7 @@ Christianity played a significant role in the development of science in the West
 
 Scholars believed that by uncovering the basic elements of creation, they were peering into the mind of God. This philosophical backdrop provided a fertile ground for the growth of modern science, encouraging scientists to delve deeper into the mysteries of the universe.
 
-But this is just the world of things, where the action take place. It's a backdrop for the game that takes place in our heads. We construct personal narratives or myths to make sense of our lives as we go along. We always tell ourslves stories about who we are and what we do.
+But this is just the world of things, where the action take place. It's a backdrop for the game that takes place in our heads. We construct personal narratives or myths to make sense of our lives as we go along. We always tell ourslves stories about  and what we do.
 
 We are all storytellers, crafting narratives that we think might help us navigate the complexities of life. These stories are not fictional. This is our interpretation of reality. The most important is what myths we are telling ourselves about what is going on. What are we doing? Are we winning?
 

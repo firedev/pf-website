@@ -10,27 +10,27 @@ prefix_default_locale: false
 collections:
   book:
     output: true
-    permalink: "/:collection/:path/"
+#    permalink: "/:collection/:path/"
     sort_by: order
     name: Book
   posts:
     output: true
-    permalink: "/:collection/:path/"
+#    permalink: "/:locale/:collection/:path/"
     sort_by: order
     name: Posts
   quotes:
     output: false
-    permalink: "/:collection/:path/"
+#    permalink: "/:collection/:path/"
     sort_by: order
     name: Quotes
   music:
     output: true
-    permalink: "/:collection/:path/"
+#    permalink: "/:collection/:path/"
     sort_by: order
     name: Music
   books:
     output: true
-    permalink: "/:collection/:path/"
+#    permalink: "/:collection/:path/"
     sort_by: order
     name: Books
 

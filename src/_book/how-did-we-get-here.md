@@ -1,7 +1,7 @@
 ---
 order: 40
 title: How did we get here?
-top_section: Who we are
+top_section: 
 category: core_concepts
 next_page_order: 100
 ---
@@ -39,7 +39,7 @@ Look at this beautiful chart. There is also an [interactive version](https://evo
 
 ![](/images/book/how-did-we-get-here/tree-of-life_2000.png)
 
-> Life on Eearth is one big extended family! Every human being is related genealogically not just to all other humans, but to all other living things. And not only organisms living today, but to everything that has ever lived.
+> Life on Earth is one big extended family! Every human being is related genealogically not just to all other humans, but to all other living things. And not only organisms living today, but to everything that has ever lived.
 
 The fact of life is we not only have common ancestors. We are related closer than one might think.
 This also applies to the evolution of our brain. We have common brain structures and behaviours as well. 
