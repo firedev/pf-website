@@ -3,7 +3,7 @@
 
 {% quote_author = quote.data.author %}
 {% author = @view_context.site.data.authors[quote.data.author] %}
-{% quote_link = quote.data&.link %}
+{% author_link = author&.link %}
 
 <blockquote class="bubble">
 <!--{% if author&.image %}-->
@@ -11,8 +11,13 @@
 <!--{% end %}-->
   <strong class="font-medium">{{ quote.content | markdownify }}</strong>
   <div class="text-right opacity-50">
-      {{ quote_link }}
-      <nobr>— {{ author&.name || quote_author }}</nobr>
+        {% if author_link %}
+        <a href="{{ author_link }}">
+          {% end %}
+          {{ author&.name || quote_author }}
+      {% if author_link %}
+      </a>
+      {% end %}
 
   </div>
 </blockquote>

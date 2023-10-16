@@ -13,10 +13,10 @@ It is the silent force that drives every living entity to survive, grow, and thr
 
 {{ render(Quote.new('bjork-all-is-full-of-love')) }}
 
-Look at the children, they are happy and curious. Well, most of the time. But you get the point, when the little ones, both human and animal, have their needs met, they revel in this love for life most profoundly. It's the fuel that powers our lives. It's a pity that somewhere along the journey, that vibrant inner light begins to dim. This is why I am writing these words. It's easier to prevent.
+Look at the children, they are happy and curious. Well, most of the time. But you get the point, when the little ones, both human and animal, have their needs met, when they are fed and rested, they are eager to play and explore. It's the fuel that powers our lives. It's a pity that somewhere along the journey, that vibrant inner light begins to dim.
 
 ![The Love for Life](/images/book/this-is-love/joy-16.jpeg)
 
-This primal emotion is the foundation upon which all other feelings and behaviors are built. It's the source of our vitality, our resilience, and our innate drive to persevere through challenges. Even in the face of adversity, this love for life fuels our determination to overcome obstacles and find meaning in our existence.
+Once you feel that you have this spark inside, you might be able to keep it burning. This primal emotion is the foundation upon which all other feelings and behaviors are built. It's the source of our vitality, our resilience, and our innate drive to persevere through challenges. Even in the face of adversity, the love for life fuels our determination to overcome obstacles and find meaning in our existence.
 
-In essence, it's the heartbeat of life itself, echoing through every living being, reminding us of the preciousness and value inherent in every moment of our existence. Without that innate love for life, our journey on Earth would lose its meaning, what's the point of suffering all the time. It's this profound affection for existence that keeps us tethered to this world.
+In essence, it's the heartbeat of life itself, echoing through every living being, reminding us of the preciousness and value inherent in every moment of our existence. Without that innate feeling, our journey on Earth would lose its meaning. There is no point of suffering all the time. Even the deep-sea creatures, living in the darkness under a constant pressure, or the bacteria living in volcano, they don't seem to be bothered with their conditions. They just live. It's this profound affection for existence that keeps us tethered to this world.
