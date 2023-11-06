@@ -5,9 +5,7 @@ top_section: Runway
 category: core_concepts
 ---
 
-Once upon a time in ancient China, there was a wise and renowned Zen master known not only for his profound teachings but also for his simple yet enlightening demonstrations.
-
-One day, a curious student approached eager to learn. The student asked the master to explain the nature of the mind and how to attain true enlightenment.
+Once upon a time in ancient China, there was a wise and renowned Zen master known not only for his profound teachings but also for his simple yet enlightening demonstrations. One day, a curious student approached eager to learn. The student asked the master to explain the nature of the mind and how to attain true enlightenment.
 
 With a kind smile, the master gestured for the student to sit. He then began pouring tea into the student's cup. The teacup was small, and soon it was full. But the master kept pouring, and the tea began to overflow, spilling onto the table and the floor.
 
@@ -25,9 +23,7 @@ To get the new information in, you have to unlearn a bit of what you've been con
 
 # We are not our body
 
-If y I began to ponder the nature of my physical form. It became clear that this body was not a permanent abode. Our bodies are the vessels for the journey of consciousness, the transient vehicles through which we can navigate the world.
-
-No one can tell for sure what their soul looks like. We can't see inside ourselves. Our body is like the space suit astronauts use to go out in space. The only difference is that you are always connected to your Earth-suit. Similar to the gigantic robots in the movie "Pacific Rim". It's a temporary home for the soul.
+Wise people and philosophers were pondering on the nature of our physical form. Our bodies are the vessels for the journey of consciousness, the transient vehicles through which we can navigate the world. No one can tell for sure what their soul looks like. We can't see inside ourselves. Our body is like the space suit astronauts use to go out in space. The only difference is that you are always connected to your Earth-suit. Similar to the gigantic robots in the movie "Pacific Rim". It's a temporary home for the soul. The soul rents this body for the life time and if we're lucky, and if some beliefs are true, it is returned to the ocean of consciousness in the end.
 
 # We are not ourselves
 
@@ -76,7 +72,7 @@ In this dance of words and worlds, remember that you hold the pen to your narrat
 
 # Their beliefs become your religion
 
-Religion, from Latin _religare_ 'to bind' is a unified field of belief. It doesn't have to be connected with the church. It's a set of beliefs that you are holding on to. 
+Religion, from Latin _religare_ 'to bind' is a unified field of belief. It doesn't have to be connected with the church or god or anything outherworldly. It's a set of beliefs that you are holding on to. 
 
 And the funny part is, whatever you got used believing in, you will find the evidence for it. Then all superficial evidence will be used to support your beliefs.
 
@@ -90,11 +86,11 @@ Growing up we start imitating the rituals, knocking on wood to ward off evil spi
 
 # It is not real
 
-Our perceptions, beliefs, and interpretations are subjective constructs, influenced by a multitude of factors. We are happy to be fooled. Our minds are full of cognitive biases - mental shortcuts leading us to irrational judgments. These biases are a product of evolutionary processes, developed to help us make quick decisions in complex environments. 
+Our perceptions, beliefs, and interpretations are subjective constructs, influenced by a multitude of factors. We are happy to be fooled. Our minds are full of cognitive biases - mental shortcuts leading us to irrational judgments. These biases are a product of evolutionary processes, developed to help us make quick decisions in complex environments. We conquered the world, now they lead to misinterpretations of reality.
 
-But they only lead to misinterpretations of reality.
+Start unlearning. Begin with meticulously trimming down the tree of your beliefs. Start with the ones that are not serving you, holding you back, whisper in your year. And you will see that most of them are just your imagination, they are not real and never were. Disown them. Sounds easy, but you lived with them all your life. They are not eager to leave. Just refuse to believe in them. And they will start wither away like plants without the water.
 
-It is not real
+Negative thoughts are like cacti, they hold the fuel inside, so the process might take some time. Identify what is not serving you and don't think it. Don't feed it. Don't water it. Don't give it any attention. And it will die. 
 
 ---
 
