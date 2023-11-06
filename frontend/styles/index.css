@@ -61,10 +61,10 @@
 
   ul.prose,
   .prose ul {
-    @apply list-disc mb-4 ml-8;
+    @apply list-disc list-inside mb-4;
   }
   .prose ol {
-    @apply list-decimal mb-4 ml-8;
+    @apply list-decimal list-inside mb-4;
   }
   .prose blockquote {
     @apply pl-8 border-l-2 border-l-slate-300;
