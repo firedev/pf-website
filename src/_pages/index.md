@@ -16,8 +16,11 @@ Live now.
 Think forward.
 Break out.
 
+
 {:.text-center .text-2xl .hidden .lg:block}
 {%@ "the_book" %}
+
+![](images/illustrations/thinkforward.png)
 
 <div class="lg:float-right lg:m-8 lg:mr-0">
   <div class="my-12">
@@ -37,6 +40,8 @@ Break out.
     <div class="text-center">{%@ "the_book" %}</div>
   </div>
 </div>
+
+
 
 {:.text-4xl .tracking-tight .my-8}
 # Modern insightment for skeptics
