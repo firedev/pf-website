@@ -226,7 +226,6 @@ sl-breadcrumb-item::part(separator) {
 .theme-dark:root .group.inline-flex {
   background: rgba(15, 15, 15, 0.8) !important;
   color: var(--dark-text-primary) !important;
-  border: 1px solid #2d3748;
   box-shadow: var(--dark-shadow-lg);
   -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
@@ -3207,4 +3206,4 @@ edge-label {
     left: 7.75rem;
   }
 }
-/*# sourceMappingURL=/_bridgetown/static/index.G3CNZLH5.css.map */
+/*# sourceMappingURL=/_bridgetown/static/index.S3YYKMLT.css.map */
