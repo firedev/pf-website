@@ -10,20 +10,20 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 
 <!-- Begin Bridgetown SEO tag v5.0.0 -->
-<title>500 | psychedelicfreediving.com</title>
-<meta property="og:title" content="500" />
+<title>Nick Plekhanov Copy | psychedelicfreediving.com</title>
+<meta property="og:title" content="Nick Plekhanov Copy" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Gentle freediving that opens up souls." />
 <meta property="og:description" content="Gentle freediving that opens up souls." />
-<link rel="canonical" href="https://psychedelicfreediving.com/500" />
-<meta property="og:url" content="https://psychedelicfreediving.com/500" />
+<link rel="canonical" href="https://psychedelicfreediving.com/instructors/nick-plekhanov%20copy/" />
+<meta property="og:url" content="https://psychedelicfreediving.com/instructors/nick-plekhanov%20copy/" />
 <meta property="og:site_name" content="psychedelicfreediving.com" />
-<meta property="og:image" content="https://mugshotbot.com/m?theme=bold&mode=light&color=246e62&pattern=bank_note&hide_watermark=true&url=https://psychedelicfreediving.com/500" />
+<meta property="og:image" content="https://i.pravatar.cc/1000" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2025-06-17T04:18:12-07:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://mugshotbot.com/m?theme=bold&mode=light&color=246e62&pattern=bank_note&hide_watermark=true&url=https://psychedelicfreediving.com/500" />
-<meta property="twitter:title" content="500" />
+<meta property="twitter:image" content="https://i.pravatar.cc/1000" />
+<meta property="twitter:title" content="Nick Plekhanov Copy" />
 <!-- End Bridgetown SEO tag -->
 
 
@@ -34,7 +34,7 @@
 
 
 </head>
-<body class="default  xdark:bg-slate-950 xdark:text-white-500">
+<body class="instructor  xdark:bg-slate-950 xdark:text-white-500">
 
 <header class="homepage-no-shadow transition-shadows py-5 px-4 sm:py-7 shadow-2xl shadow-stone-600/10 relative z1 xdark:bg-stone-900 xdark:bg-opacity-80 xdark:shadow-none">
   <div class="flex flex-wrap items-center row w-full justify-between max-w-screen-2xl mx-auto gap-2">
@@ -64,12 +64,86 @@
 
 
 <main id="main" class="min-h-screen max-w-screen-2xl mx-auto px-4 lg:px-8">
-  <h1>500</h1>
+  <div class="max-w-4xl mx-auto px-4 py-8">
+  <div class="grid md:grid-cols-2 gap-8">
+    <div class="text-center md:text-left">
+      {%% if resource.data.image.present? %%}
+        <img src="{{ resource.data.image }}" alt="{{ resource.data.name }}" class="rounded-lg shadow-lg w-64 h-64 object-cover mx-auto md:mx-0">
+      {%% end %%}
+    </div>
+    
+    <div>
+      <h1 class="text-4xl font-bold mb-2">{{ resource.data.name }}</h1>
+      <p class="text-xl text-gray-600 mb-4">{{ resource.data.affiliation }}</p>
+      
+      <div class="mb-6">
+        <p class="text-lg">{{ resource.data.profile }}</p>
+      </div>
 
-<h2>Internal Server Error :(</h2>
+      {%% if resource.data.certifications.present? %%}
+        <div class="mb-4">
+          <h2 class="text-xl font-semibold mb-2">Certifications</h2>
+          <ul class="list-disc list-inside">
+            {%% for cert in resource.data.certifications %%}
+              <li>{{ cert }}</li>
+            {%% end %%}
+          </ul>
+        </div>
+      {%% end %%}
 
-<p>The requested page could not be delivered.</p>
+      {%% if resource.data.specialties.present? %%}
+        <div class="mb-4">
+          <h2 class="text-xl font-semibold mb-2">Specialties</h2>
+          <ul class="list-disc list-inside">
+            {%% for specialty in resource.data.specialties %%}
+              <li>{{ specialty }}</li>
+            {%% end %%}
+          </ul>
+        </div>
+      {%% end %%}
 
+      {%% if resource.data.languages.present? %%}
+        <div class="mb-4">
+          <h2 class="text-xl font-semibold mb-2">Languages</h2>
+          <ul class="list-disc list-inside">
+            {%% for lang in resource.data.languages %%}
+              <li>{{ lang }}</li>
+            {%% end %%}
+          </ul>
+        </div>
+      {%% end %%}
+
+      {%% if resource.data.social.present? %%}
+        <div class="mt-8">
+          <h2 class="text-xl font-semibold mb-2">Connect</h2>
+          <div class="flex gap-4">
+            {%% if resource.data.social.instagram.present? %%}
+              <a href="https://instagram.com/{{ resource.data.social.instagram }}" target="_blank" rel="noopener" class="text-blue-600 hover:text-blue-800">
+                Instagram
+              </a>
+            {%% end %%}
+            {%% if resource.data.social.facebook.present? %%}
+              <a href="https://facebook.com/{{ resource.data.social.facebook }}" target="_blank" rel="noopener" class="text-blue-600 hover:text-blue-800">
+                Facebook
+              </a>
+            {%% end %%}
+            {%% if resource.data.social.linkedin.present? %%}
+              <a href="https://linkedin.com/in/{{ resource.data.social.linkedin }}" target="_blank" rel="noopener" class="text-blue-600 hover:text-blue-800">
+                LinkedIn
+              </a>
+            {%% end %%}
+          </div>
+        </div>
+      {%% end %%}
+    </div>
+  </div>
+
+  {%% if resource.content.present? %%}
+    <div class="mt-12 prose max-w-none">
+      {{ resource.content }}
+    </div>
+  {%% end %%}
+</div> 
 </main>
 
 <footer class="overflow-hidden">
